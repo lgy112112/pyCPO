@@ -1,2 +1,2 @@
 # pyCPO
-Python Implementation of the Crested Porcupine Optimizer
+Python Implementation of the Crested Porcupine Optimizer to Opt Every Net Params
