@@ -38,7 +38,7 @@ The Crested Porcupine Optimizer (CPO) is a nature-inspired optimization algorith
 To install `pyCPO`, you need to install simply torch and NumPy which is too common to inform you guys so just forget this installation sorry🤣:
 
 ```bash
-git clone https://github.com/yourusername/pyCPO.git
+git clone https://github.com/lgy112112/pyCPO.git
 ```
 
 ---
